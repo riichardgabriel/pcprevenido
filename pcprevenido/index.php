@@ -28,7 +28,6 @@
           <li><a href="#produtos">Produtos</a></li>
           <li><a href="#resultados">Resultados</a></li>
           <li><a href="#perguntas">Dúvidas</a></li>
-          <li><a href="#contato">Contato</a></li>
           <li><a href="./html/login.php"><i class="bi bi-person-fill"></i></a></li>
           <li><a href="./html/carrinho.php"><i class="bi bi-cart3"></i></a></li>
         </ul>
@@ -263,7 +262,6 @@
           <li><a href="#produtos">Produtos</a></li>
           <li><a href="#resultados">Resultados</a></li>
           <li><a href="#perguntas">Dúvidas<a></li>
-          <li><a href="#contato">Contato</a></li>
           <li><a href="./html/login.php">Login</a></li>
           <li><a href="./html/carrinho.php">Carrinho</a></li>
         </ul>
@@ -284,16 +282,9 @@
         <ul class="list-unstyled mt-3">
           <h5>Sobre nós</h5>
           <li><a href="#sobrenos">Sobre</a></li>
-          <li><a href="#contato">Contato</a></li>
         </ul>
       </div>
-<!-- 
-      <div class="col -md-3">
-        <ul class="list-unstyled mt-3">
-          <h5>Descubra mais</h5>
-          <li><a href="#produtos">Produtos</a></li>
-        </ul>
-      </div> -->
+
 
       <div class="col -md-3">
         <div class="social-icons mt-3">
